@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\PC\Downloads\S3Amazon\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\libs\internal_impl-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="C:\Users\PC\Downloads\S3Amazon\app\build\intermediates\pre-dexed\debug\internal_impl-23.1.1_b30e6f6e54eac5fc4c0e816d2b0135a4855f82b5.jar" />
+    </item>
+    <item
+        jar="C:\Users\PC\.gradle\caches\modules-2\files-2.1\com.amazonaws\aws-android-sdk-core\2.2.13\bcb160fb9cb637c7908e77d473cdbdabdd80e2b9\aws-android-sdk-core-2.2.13.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="bcb160fb9cb637c7908e77d473cdbdabdd80e2b9">
+        <dex dex="C:\Users\PC\Downloads\S3Amazon\app\build\intermediates\pre-dexed\debug\aws-android-sdk-core-2.2.13_f049367c25a3bec1fdb41dfe8232019fe85900db.jar" />
+    </item>
+    <item
+        jar="C:\Users\PC\.gradle\caches\modules-2\files-2.1\com.amazonaws\aws-android-sdk-s3\2.2.13\1b15445de91b048a6b74506dd8261daf74decdcd\aws-android-sdk-s3-2.2.13.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="1b15445de91b048a6b74506dd8261daf74decdcd">
+        <dex dex="C:\Users\PC\Downloads\S3Amazon\app\build\intermediates\pre-dexed\debug\aws-android-sdk-s3-2.2.13_1491a235601aafcde13f998b9972d997b26656e9.jar" />
+    </item>
+    <item
+        jar="C:\Users\PC\.gradle\caches\modules-2\files-2.1\com.amazonaws\aws-android-sdk-ddb\2.2.13\c5e29c073cc8539c409c6ef39201f979031de0c1\aws-android-sdk-ddb-2.2.13.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="c5e29c073cc8539c409c6ef39201f979031de0c1">
+        <dex dex="C:\Users\PC\Downloads\S3Amazon\app\build\intermediates\pre-dexed\debug\aws-android-sdk-ddb-2.2.13_5cd51b432338297619dfe106ba033103d91876e7.jar" />
+    </item>
+    <item
+        jar="C:\Users\PC\.gradle\caches\modules-2\files-2.1\com.amazonaws\aws-android-sdk-cognito\2.2.13\251ebccacaad6a5036952dc6b259a2aabba38356\aws-android-sdk-cognito-2.2.13.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="251ebccacaad6a5036952dc6b259a2aabba38356">
+        <dex dex="C:\Users\PC\Downloads\S3Amazon\app\build\intermediates\pre-dexed\debug\aws-android-sdk-cognito-2.2.13_6e4e7eebf08646867e7f1d150955f0a419df92b9.jar" />
+    </item>
+    <item
+        jar="C:\Users\PC\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\23.1.1\support-annotations-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="C:\Users\PC\Downloads\S3Amazon\app\build\intermediates\pre-dexed\debug\support-annotations-23.1.1_86c3683cde735b1f0444188140415be0bdeb4563.jar" />
+    </item>
+    <item
+        jar="C:\Users\PC\Downloads\S3Amazon\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="C:\Users\PC\Downloads\S3Amazon\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.1.1_aa362b1c841e7760ad82d25f4fe7f17f21aaad72.jar" />
+    </item>
+    <item
+        jar="C:\Users\PC\Downloads\S3Amazon\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="C:\Users\PC\Downloads\S3Amazon\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.1.1_fbdae3cf63b772ee51f609f218030760b6d136b2.jar" />
+    </item>
+    <item
+        jar="C:\Users\PC\Downloads\android-studio\gradle\m2repository\com\google\code\gson\gson\2.2.4\gson-2.2.4.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="a60a5e993c98c864010053cb901b7eab25306568">
+        <dex dex="C:\Users\PC\Downloads\S3Amazon\app\build\intermediates\pre-dexed\debug\gson-2.2.4_a2f571dcc06d165b58af6170cf4940a885e222f1.jar" />
+    </item>
+
+</items>
